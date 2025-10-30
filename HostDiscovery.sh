@@ -37,17 +37,7 @@ OUT_GREPABLE="AllPorts"
 # Ejecuta nmap una sola vez sobre todas las IPs activas
 echo "[+] Escaneando puertos abiertos en IPs activas..."
 # Ajusta --min-rate o -sS/-sT según privilegios y estabilidad de red
-nmap --top-ports 300 --open -sS --min-rate 3000 -n -Pn -oG "$OUT_GREPABLE" -iL "$TMP_IPS" 2>/dev/null
-
-# Chequeo rápido de resultado
-if [ ! -s "$OUT_GREPABLE" ]; then
-    echo "[-] AllPorts generado pero está vacío o nmap falló."
-    # mostrar algunas líneas crudas para diagnóstico
-    echo "[i] Primeras 40 líneas (AllPorts):"
-    head -n 40 "$OUT_GREPABLE" 2>/dev/null || true
-    rm -f "$TMP_IPS"
-    exit 0
-fi
+nmap --top-ports 300 --open -sS --min-rate 3000 -n -Pn -vvv -oG "$OUT_GREPABLE" -iL "$TMP_IPS" 2>/dev/null
 
 echo "[+] Archivo grepable generado: $OUT_GREPABLE"
 
