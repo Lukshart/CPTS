@@ -1,7 +1,7 @@
 ---
 description: >-
-  Este repositorio tiene como fin documentar mi camino en calidad de estudiante
-  red teamer.
+  El repositorio se irá actualizando a medida que vaya progresando como hacker
+  ético.
 ---
 
 # Incursión al Pentesting
