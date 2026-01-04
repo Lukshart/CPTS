@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Camino a la CPTS](README.md)
+* [Incursión al Pentesting](README.md)
+* [🔍 Recolección de la Información](recoleccion-de-la-informacion.md)

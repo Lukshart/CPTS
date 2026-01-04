@@ -1,10 +1,10 @@
 ---
 description: >-
-  Este repositorio tiene como fin documentar el camino hacia mi primera
-  certificación en ciberseguridad.
+  Este repositorio tiene como fin documentar mi camino en calidad de estudiante
+  red teamer.
 ---
 
-# Camino a la CPTS
+# Incursión al Pentesting
 
 #### Sobre mí
 
