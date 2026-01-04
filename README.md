@@ -6,8 +6,6 @@ description: >-
 
 # Camino a la CPTS
 
-
-
 #### Sobre mí
 
 Mi nombre es Matias Alamos y a partir del día 04 de enero de 2026 decidí comenzar a documentar mi travesía en el mundo de la ciberseguridad.\
@@ -20,11 +18,16 @@ Mi nombre es Matias Alamos y a partir del día 04 de enero de 2026 decidí comen
 
 **Metas a corto/mediano plazo:**
 
-* [ ] Aprobar el examen de certificación CPTS.\
-  <br>
+* [ ] Aprobar el examen de certificación CPTS.
 
-#### &#x20;⚠️ Disclaimer
 
-El siguiente contenido es solo para fines educativos y de investigación.\
-Cualquier uso indebido de actividades ilegales o poco éticas está estrictamente prohibido.\
-El autor no asume ninguna responsabilidad por el uso indebido o los daños que surjan del contenido.
+
+<details>
+
+<summary> ⚠️ Disclaimer ⚠️</summary>
+
+* El siguiente contenido es solo para fines educativos y de investigación.
+* Cualquier uso indebido de actividades ilegales o poco éticas está estrictamente prohibido.
+* El autor no asume ninguna responsabilidad por el uso indebido o los daños que surjan del contenido.
+
+</details>
