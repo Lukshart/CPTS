@@ -16,10 +16,11 @@ Mi nombre es Matias Alamos y a partir del día 04 de enero de 2026 decidí comen
 * Crear un hábito de estudio.
 * Aprender git.
 * Ayudar a las próximas generaciones a iniciar en el mundo del pentesting.
+* Cubrir todas las certificaciones que vaya adquiriendo.
 
 
 
-**Metas a corto/mediano plazo:**
+**Metas:**
 
 * [ ] Aprobar el examen de certificación CPTS.
 
