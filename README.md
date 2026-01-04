@@ -8,13 +8,16 @@ description: >-
 
 #### Sobre mí
 
-Mi nombre es Matias Alamos y a partir del día 04 de enero de 2026 decidí comenzar a documentar mi travesía en el mundo de la ciberseguridad.\
+Mi nombre es Matias Alamos y a partir del día 04 de enero de 2026 decidí comenzar a documentar mi travesía en el mundo de la ciberseguridad.<br>
+
 \
 **Objetivos del repositorio:**
 
 * Crear un hábito de estudio.
 * Aprender git.
 * Ayudar a las próximas generaciones a iniciar en el mundo del pentesting.
+
+
 
 **Metas a corto/mediano plazo:**
 
